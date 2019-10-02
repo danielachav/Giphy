@@ -1,0 +1,64 @@
+
+#body {
+   background-image: url("./images/halloweenwallpaper.jpg");
+   background-size: cover;
+}
+
+h1 {
+   font-family: 'Eater', cursive;
+   color: rgb(184, 70, 28);
+   text-shadow: black; 
+   font-size: 55px; 
+   margin-top: 10px;
+   margin-bottom: 20px;
+}
+
+button, div, form, input {
+    margin: 5px;
+}
+
+img {
+	max-width: 200px;
+    max-height: 200px;
+    margin-top: 30%;
+    margin-right: 7%;
+    margin-left: -40%;
+}
+
+label {
+    color: black;
+    background-color: rgb(184, 70, 28);
+    font-family: 'IM Fell DW Pica', serif;
+}
+
+.btn-default {
+    color: #000;
+    font-size: medium;
+    background-color: rgb(184, 70, 28);
+    font-family: 'IM Fell DW Pica', serif;
+}
+
+#form {
+    float: left;
+    margin-left: 5%;
+}
+
+#display-buttons {
+    margin-left: 5%;
+}
+
+#user-input {
+    font-family: 'IM Fell DW Pica', serif;
+    color: #000;
+}
+
+.holder {
+    float: right;
+}
+
+.header {
+    text-align: center;
+}
+
+
+
